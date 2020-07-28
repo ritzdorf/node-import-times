@@ -68,3 +68,8 @@ There appears to be no obvious colleration betweens number of transactions and i
 
 ![Scatter Plot](scatter_parity.png)
 
+
+
+## Script for generation
+
+[importtime.py](importtime.py)
