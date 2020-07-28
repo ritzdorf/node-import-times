@@ -1,6 +1,6 @@
 # Current Import Times for Ethereum Nodes
 
-These numbers are based on roughly 4000 blocks for archive nodes running on the same machene.
+These numbers are based on roughly 4000 blocks for archive nodes running on the same machine. These numbers are in no way representative, but meant to get a glimpse into the current state. Very slow block import times seem to be caused by variable I/O performance. However, certain blocks appears to be reproducibly slower than others, e.g. 10537760 for geth.
 
 ### Geth
 
